@@ -1,7 +1,3 @@
-# algo-asa-portal
-
-Asset Management Portal
-
 Run:
 
 1. install node js and npm
